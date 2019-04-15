@@ -1,0 +1,1 @@
+@"d:\games\descyndis\mud\evenv\scripts\python.exe" "d:\games\descyndis\mud\evenv\Scripts\evennia_launcher.py" %*
